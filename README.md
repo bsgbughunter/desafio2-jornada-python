@@ -25,7 +25,7 @@ Funcionalidades Implementadas
 - Informa o saldo atual da conta.
 
 Usuários e Contas
-- Cadastro de novos usuários com CPF único.
+- Cadastro de novos usuários.
 - Criação de contas bancárias associadas a usuários já existentes.
 - Listagem de todas as contas registradas.
 
